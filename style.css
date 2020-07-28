@@ -1,0 +1,32 @@
+h1{
+    color:orange
+}
+.header{
+    background-color: rgb(30, 255, 0);
+    display:flex;
+    justify-content: space-between ;
+     text-decoration: red  
+}
+.site-description{
+display: flex;
+flex-direction: column;
+justify-content: first baseline;
+
+}
+p{
+    color: rgb(64, 116, 230);
+}
+.grid{
+    display: flex;
+   
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: left;
+}
+body{
+    background-color: rgb(30, 255, 0) ;
+}
